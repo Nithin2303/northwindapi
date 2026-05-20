@@ -1,0 +1,4 @@
+@EndUserText.label: 'sd for products'
+define service Ztest_northwind1 {
+  expose zi_products_wind;
+}
